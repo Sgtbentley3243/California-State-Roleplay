@@ -1,4 +1,4 @@
-# Save the website HTML as a file
+# California State Roleplay
 file_path = "/mnt/data/California_State_Roleplay_TOS.html"
 
 with open(file_path, "w") as file:
@@ -103,7 +103,7 @@ with open(file_path, "w") as file:
         <p><strong>Acknowledgment:</strong> By using CSRP services, you agree to these Terms and affirm that you understand and accept all policies and guidelines set forth.</p>
     </div>
     <footer>
-        <p>&copy; [Year] California State Roleplay. All rights reserved.</p>
+        <p>&copy; [2024] California State Roleplay. All rights reserved.</p>
     </footer>
 </body>
 </html>
