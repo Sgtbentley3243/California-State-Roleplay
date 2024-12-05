@@ -58,7 +58,7 @@ with open(file_path, "w") as file:
         <h1>California State Roleplay - Terms of Service</h1>
     </header>
     <div class="container">
-        <p><strong>Effective Date:</strong> [Insert Date]</p>
+        <p><strong>2024:</strong> [Insert Date]</p>
         <p>Welcome to California State Roleplay (“CSRP”)! By accessing or using our services, you agree to comply with these Terms of Service (“Terms”). Please read them carefully.</p>
 
         <h2>1. Acceptance of Terms</h2>
